@@ -152,7 +152,7 @@ main {
     text-align: center;   
 }
 
-.name-contenedor {
+.name-container {
     display: flex;
     align-items: center;
     column-gap: .5rem;
